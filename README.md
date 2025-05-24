@@ -5,10 +5,10 @@
 This repository contains the implementation of a cutting-edge approach for **Multi-Modal 3D Object Detection in Adverse Weather Conditions**. The project leverages data from multiple sensor modalities, such as LiDAR, and cameras, to achieve robust and accurate 3D object detection in challenging environments. By addressing the limitations of single-sensor systems, this work aims to enhance the reliability of autonomous systems operating in real-world scenarios.
 
 <p align="center">
-     <img src="C:\Users\matha\Desktop\Source_codes\sereact\sereact\sereact\media\rgb.jpg" alt="Image 1" width="200"/>
-     <img src="C:\Users\matha\Desktop\Source_codes\sereact\sereact\sereact\media\pcd_withbbox3D.png" alt="Image 2" width="200"/>
-     <img src="C:\Users\matha\Desktop\Source_codes\sereact\sereact\sereact\media\instance_mask.png" alt="Image 3" width="200"/>
-   </p>
+    <img src="media/rgb.jpg" alt="Image 1" width="200"/>
+    <img src="media/pcd_withbbox3D.png" alt="Image 2" width="200"/>
+    <img src="media/instance_mask.png" alt="Image 3" width="200"/>
+</p>
 
 ## Features
 
