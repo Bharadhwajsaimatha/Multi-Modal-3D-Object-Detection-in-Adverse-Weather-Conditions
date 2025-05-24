@@ -86,6 +86,15 @@ This project is licensed under the [MIT License](LICENSE).
 
 We would like to thank the contributors of the open-source datasets and libraries used in this project. Special thanks to the research community for their valuable insights and inspiration.
 
+## ToDO
+
+- [ ] Update dataset preprocessing instructions.
+- [ ] Add quantitative results and performance metrics for 3D detection.
+- [ ] Implement the denoising autoencoder for adverse weather conditions.
+- [ ] Explore integration with real-world autonomous systems.
+- [ ] Conduct extensive testing across various datasets and scenarios.
+- [ ] Optimize model performance for real-time applications.
+
 ## Contact
 
 For questions or collaboration opportunities, please contact:
