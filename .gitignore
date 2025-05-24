@@ -1,0 +1,6 @@
+# Excluding the description file
+
+docs/*.pdf
+
+# Excluding the data directory
+data/

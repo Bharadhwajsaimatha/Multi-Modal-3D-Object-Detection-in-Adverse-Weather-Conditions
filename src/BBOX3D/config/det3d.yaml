@@ -1,0 +1,15 @@
+# dataset config file
+
+data_root: '/home/jovyan/sai-semocc1-workspace/practice/sereact/data/dl_challenge'
+log_dir : '/home/jovyan/sai-semocc1-workspace/practice/sereact/logs'
+
+
+n_gpus: 1
+batch_size: 4
+num_workers: 4
+
+num_epochs: 20
+learning_rate: 0.001
+lr_scheduler_step: 5
+lr_scheduler_gamma: 0.1
+weight_decay: 0.0001
